@@ -9,5 +9,6 @@
 
 
 
-
-<![Top Languages](https://github-readme-stats-kappa-lovat-54.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&count_private=true&theme=radical)>
+<!--
+![Top Languages](https://github-readme-stats-kappa-lovat-54.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&count_private=true&theme=radical)
+-->
