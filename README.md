@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🔭 I’m Hashini Rangala Dias
+ 🔭 I’m Hashini Rangala Dias,
  Thank you for visiting my github account
 
  🛠️ Here are my most used languages
